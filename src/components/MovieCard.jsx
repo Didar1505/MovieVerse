@@ -1,13 +1,5 @@
 import React from 'react';
 import '../card-style.css'
-import {
-  Card,
-  CardMedia,
-  CardContent,
-  Typography,
-  Chip,
-  Box
-} from '@mui/material';
 
 
 const MovieCard = ({ movie }) => {
